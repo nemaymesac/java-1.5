@@ -16,7 +16,6 @@ public class PrintContacts {
                 c4 = new ContactManager("Konstantin", "");
 
 
-
         List<Object> lstObject = new ArrayList<>();
         lstObject.add(c1);
         lstObject.add(c2);
@@ -29,7 +28,7 @@ public class PrintContacts {
             }
             if (obj.getClass() == ContactManager.class) {
                 ContactManager contactManager = (ContactManager) obj;
-                System.out.println("Name : " + contactManager.getName() +"."+ " Number : " + contactManager.getPhoneNr());
+                System.out.println("Name : " + contactManager.getName() + "." + " Number : " + contactManager.getPhoneNr());
             }
 
 
