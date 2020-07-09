@@ -1,8 +1,9 @@
+package homework;
+
 import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class SomeFunctions {
 

@@ -1,4 +1,6 @@
-import contacts.ContactManager;
+package extraHomework;
+
+import extraHomework.AdditionalFunctions;
 
 public class AdditionalHomeWork {
 
